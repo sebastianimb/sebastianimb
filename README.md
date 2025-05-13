@@ -21,8 +21,8 @@
 
 ## 🌱 Metas Actuales:
 1. Completar cursos de backend.
-2. Completar curso de AWS.
-3. Publicar un proyecto Full Stack en GitHub.
+2. Publicar un proyecto Full Stack en GitHub.
+3. Completar curso de AWS.
 4. En los próximos 3 a 5 años, planeo perfeccionar mis habilidades en frameworks y herramientas modernas de desarrollo Front-End y Back-End, obtener certificaciones avanzadas en accesibilidad web y arquitectura de software, y liderar proyectos mas desafiantes.
 
 ---
