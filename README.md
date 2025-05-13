@@ -1,9 +1,8 @@
-# ¡Hola! 👋 Soy Sebastián Ignacio Molina Bastidas
+# ¡Hola! 👋 Soy Sebastián Ignacio Molina Bastidas 
 
 🌟 **Frontend Developer** con experiencia en React, Vuejs, TypeScript, y Sass.  
 🚀 **Explorando Backend**: Actualmente tomando cursos para ampliar mis habilidades.
 
-[**Ir a mi CV**](https://sebastian-molina.netlify.app/dist/doc/CV-MolinaSebastian.pdf)
 
 ---
 
@@ -45,5 +44,8 @@
 - [LinkedIn](https://www.linkedin.com/in/sebastianimb)
 - [Email](mailto:sebastianmolina.b7@gmail.com)
 
----
+--- 
+
 ¡Gracias por visitar mi perfil!
+
+[**[Currículum Vitae**]](https://sebastian-molina.netlify.app/dist/doc/CV-MolinaSebastian.pdf) 👈
