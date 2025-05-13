@@ -26,7 +26,7 @@
 
 ## 🚧 Mis Proyectos:
 - 🌐 **[Portafolio Personal](https://sebastian-molina.netlify.app)**: Mi espacio en la web para mostrar mi trabajo.
-- 💡 **[Proyectos de Aprendizaje](https://github.com/sebastianimb/Proyectos-personales)**: Repositorios con proyectos pequeños mientras aprendo backend.
+- 💡 **[Proyectos de Aprendizaje](https://github.com/sebastianimb/Proyectos-personales)**: Repositorios con proyectos, cursos y repasos.
 - 🛒 **E-commerce**: (En construcción) Un sistema para la venta de productos simulando tienda online.
 
 ---
