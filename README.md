@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sebastián Ignacio Molina Bastidas
 
-🌟 **Frontend Developer** con experiencia en React, Vuejs, Angular, TypeScript, y Sass.  
+🌟 **Frontend Developer** con experiencia en React, Vuejs, TypeScript, y Sass.  
 🚀 **Explorando Backend**: Actualmente tomando cursos para ampliar mis habilidades.  
 
 ---
@@ -8,13 +8,13 @@
 ## 🛠️ Tecnologías y Herramientas:
 - **Frontend**: React, Angular, Vuejs, TypeScript, Sass, 
 - **Backend (aprendiendo)**: Node.js, Nest, Express, MongoDB
-- **Otros**: Git, GitHub, GitLab, Jira, Confluence, Scrum 
+- **Otros**: Git, GitHub, GitLab, Jira, Confluence, Scrum, DXP Modyo, Redux, UX/UI
 
 ---
 
 ## 🚧 Mis Proyectos:
 - 🌐 **[Portafolio Personal](https://sebastian-molina.netlify.app)**: Mi espacio en la web para mostrar mi trabajo.
-- 💡 **Proyectos de Aprendizaje**: Repositorios con proyectos pequeños mientras aprendo backend.
+- 💡 **[Proyectos de Aprendizaje](https://github.com/sebastianimb/Proyectos-personales)**: Repositorios con proyectos pequeños mientras aprendo backend.
 - 🛒 **E-commerce**: (En construcción) Un sistema para la venta de productos simulando tienda online.
 
 ---
