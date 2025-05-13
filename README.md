@@ -3,7 +3,6 @@
 🌟 **Frontend Developer** con experiencia en React, Vuejs, TypeScript, y Sass.  
 🚀 **Explorando Backend**: Actualmente tomando cursos para ampliar mis habilidades.
 
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas:
@@ -48,4 +47,4 @@
 
 ¡Gracias por visitar mi perfil!
 
-[**[Currículum Vitae**]](https://sebastian-molina.netlify.app/dist/doc/CV-MolinaSebastian.pdf) 👈
+[**Currículum Vitae**](https://sebastian-molina.netlify.app/dist/doc/CV-MolinaSebastian.pdf) 👈
