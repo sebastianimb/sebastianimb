@@ -47,5 +47,5 @@
 
 ¡Gracias por visitar mi perfil!
 
-[**Currículum Vitae**](https://sebastian-molina.netlify.app/dist/doc/CV-MolinaSebastian.pdf) 👈
+[**Currículum Vitae**](https://sebastian-molina.netlify.app/assets/CV-MolinaSebastian.pdf) 👈
 
