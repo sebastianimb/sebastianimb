@@ -25,16 +25,15 @@
 ---
 
 ## 🚧 Mis Proyectos:
-- 🌐 **[Portafolio Personal](https://sebastian-molina.netlify.app)**: Mi espacio en la web para mostrar mi trabajo.
+- 🌐 **[Portafolio Personal](https://sebastianimb.netlify.app/)**: Mi espacio en la web para mostrar mi trabajo.
 - 💡 **[Proyectos de Aprendizaje](https://github.com/sebastianimb/Proyectos-personales)**: Repositorios con proyectos, cursos y repasos.
 - 🛒 **E-commerce**: (En construcción) Un sistema para la venta de productos simulando tienda online.
 
 ---
 
 ## 🌱 Metas Actuales:
-1. Completar cursos de backend.
+1. Completar cursos de backend. ✅
 2. Publicar un proyecto Full Stack en GitHub.
-3. Completar curso de AWS.
 4. En los próximos 3 a 5 años, planeo perfeccionar mis habilidades en frameworks y herramientas modernas de desarrollo Front-End y Back-End, obtener certificaciones avanzadas en accesibilidad web y arquitectura de software, para así, liderar proyectos más desafiantes.
 
 ---
