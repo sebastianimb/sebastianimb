@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Sebastián Ignacio Molina Bastidas 
 
 **Ingeniero de Software**
+
 **Desarrollador web - Full Stack**
 
 ---
