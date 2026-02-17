@@ -43,9 +43,3 @@
 - [LinkedIn](https://www.linkedin.com/in/sebastianimb)
 - [Email](mailto:sebastianmolina.b7@gmail.com)
 
---- 
-
-¡Gracias por visitar mi perfil!
-
-[**Currículum Vitae**](https://sebastian-molina.netlify.app/assets/CV-MolinaSebastian.pdf) 👈
-
