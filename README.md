@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Sebastián Ignacio Molina Bastidas 
 
-🌟 **Frontend Developer** con experiencia en React, Vuejs, TypeScript, y Sass.  
-🚀 **Explorando Backend**: Actualmente tomando cursos para ampliar mis habilidades.
+**Ingeniero de Software**
+**Desarrollador web - Full Stack**
 
 ---
 
