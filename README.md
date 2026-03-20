@@ -31,13 +31,6 @@
 
 ---
 
-## 🌱 Metas Actuales:
-1. Completar cursos de backend. ✅
-2. Publicar un proyecto Full Stack en GitHub.
-4. En los próximos 3 a 5 años, planeo perfeccionar mis habilidades en frameworks y herramientas modernas de desarrollo Front-End y Back-End, obtener certificaciones avanzadas en accesibilidad web y arquitectura de software, para así, liderar proyectos más desafiantes.
-
----
-
 ## 📫 ¡Conectemos!
 - [LinkedIn](https://www.linkedin.com/in/sebastianimb)
 - [Email](mailto:sebastianmolina.b7@gmail.com)
