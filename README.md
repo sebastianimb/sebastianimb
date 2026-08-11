@@ -7,9 +7,9 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas:
-- **Frontend**: React, Angular, Vuejs, TypeScript, Sass, 
-- **Backend (aprendiendo)**: Node.js, Nest, Express, MongoDB, Python, Django
-- **Otros**: Git, GitHub, GitLab, Jira, Confluence, Scrum, DXP Modyo, Redux, UX/UI
+- **Frontend**: React, Angular, Vuejs, TypeScript, Sass.
+- **Backend**:  Express, Nest, Django, FastApi, MongoDB, MySql.
+- **Otros**: Git, GitHub, GitLab, Jira, Confluence, Scrum, DXP Modyo, Redux, UX/UI, Adobe Photoshop, Adobe Ilustrator.
 <div align="center" style='padding: 32px 16px 16px 16px'>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
